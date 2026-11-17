@@ -1,0 +1,15 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb
+.env
+.venv/
+venv/
+results/
+tests/
+vector_db/baseline/
+vector_db/cs_handbook_pdf/
+vector_db/cs_handbook_courses/
+*.log
