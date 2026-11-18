@@ -26,8 +26,8 @@ Thumbs.db
 # Generated packages
 *.zip
 
-# Evaluation outputs not needed for deployment
-results/
+# Ignore runtime logs but keep evaluation results
+results/*.log
 
 # Local Ollama models
 .ollama/

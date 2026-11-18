@@ -1,0 +1,37 @@
+system,id,split,question,evidence_pages,retrieved_pages,first_relevant_rank,retrieval_time,hit@1,all_evidence@1,hit@3,all_evidence@3,hit@5,all_evidence@5,rr@5
+Original Semantic,Q01,development,How many credits are required for the Computer Science major?,[7],"[7, 7, 4, 8, 4]",1,1.650595211000109,1,1,1,1,1,1,1.0
+Original Semantic,Q02,development,What are the learning outcomes of the Computer Science program?,"[5, 11]","[12, 4, 4, 2, 5]",5,0.28722196000035183,0,0,0,0,1,0,0.2
+Original Semantic,Q03,development,What are the requirements for a Computer Science minor?,[7],"[7, 7, 11, 4, 4]",1,0.19619918199987296,1,1,1,1,1,1,1.0
+Original Semantic,Q04,held_out_candidate,What is the official degree awarded for the Computer Science major?,"[1, 6]","[7, 7, 4, 4, 1]",5,0.17370062800000596,0,0,0,0,1,0,0.2
+Original Semantic,Q05,held_out_candidate,What is the major code for Computer Science?,[1],"[1, 4, 7, 7, 4]",1,0.15727568500005873,1,1,1,1,1,1,1.0
+Original Semantic,Q06,held_out_candidate,What are the educational objectives of the Computer Science program?,[4],"[4, 12, 8, 4, 4]",1,0.1933111899998039,1,1,1,1,1,1,1.0
+Original Semantic,Q07,held_out_candidate,What is the difference between Core Learning Outcomes and Major Learning Outcomes?,[5],"[5, 18, 12, 5, 11]",1,0.1770080019996385,1,1,1,1,1,1,1.0
+Original Semantic,Q08,held_out_candidate,What courses are required in the Computer Science major?,[7],"[7, 7, 8, 4, 13]",1,0.14785773799940216,1,1,1,1,1,1,1.0
+Original Semantic,Q09,held_out_candidate,What options are available instead of the Computer Science capstone courses?,"[7, 8]","[9, 7, 8, 8, 12]",2,0.17543839999962074,0,0,1,1,1,1,0.5
+Original Semantic,Q10,held_out_candidate,What must a student complete before formally declaring the Computer Science major?,[7],"[7, 7, 8, 4, 4]",1,0.18220639300034236,1,1,1,1,1,1,1.0
+Original Semantic,Q11,held_out_candidate,Which programming courses can satisfy the Computer Science minor requirement?,[7],"[7, 7, 11, 4, 8]",1,0.15609698300067976,1,1,1,1,1,1,1.0
+Original Semantic,Q12,held_out_candidate,What must a student complete before formally declaring the Computer Science minor?,[7],"[7, 7, 11, 8, 4]",1,0.21136936099992454,1,1,1,1,1,1,1.0
+Original Semantic,Q13,held_out_candidate,What is the recommended progression through the Computer Science curriculum?,"[8, 11]","[8, 6, 4, 12, 12]",1,0.17835163899962936,1,0,1,0,1,0,1.0
+Original Semantic,Q14,held_out_candidate,What are the eligibility requirements for CS 401 Capstone I?,[9],"[9, 2, 7, 7, 17]",1,0.16686578699955135,1,1,1,1,1,1,1.0
+Original Semantic,Q15,held_out_candidate,What teaching and assessment methods are used in the Computer Science major?,"[12, 13]","[12, 12, 4, 4, 7]",1,0.17256318900035694,1,0,1,0,1,0,1.0
+Original Semantic,Q16,held_out_candidate,What graduate study and career paths are described for Computer Science students?,"[5, 6]","[5, 8, 4, 6, 4]",1,0.20140188799996395,1,0,1,0,1,1,1.0
+Original Semantic,Q17,held_out_candidate,Which courses are listed in the Computer Science course catalogue?,[13],"[13, 7, 7, 14, 13]",1,0.18105753600048047,1,1,1,1,1,1,1.0
+Original Semantic,Q18,held_out_candidate,What prerequisites are listed for CS 201?,"[13, 14]","[7, 16, 16, 16, 14]",5,0.22281590300008247,0,0,0,0,1,0,0.2
+Structure-Aware,Q01,development,How many credits are required for the Computer Science major?,[7],"[7, 7, 11, 13, 8]",1,0.1604228010000952,1,1,1,1,1,1,1.0
+Structure-Aware,Q02,development,What are the learning outcomes of the Computer Science program?,"[5, 11]","[12, 11, 11, 4, 4]",2,0.37121315300009883,0,0,1,0,1,0,0.5
+Structure-Aware,Q03,development,What are the requirements for a Computer Science minor?,[7],"[7, 7, 11, 8, 4]",1,0.43243292100032704,1,1,1,1,1,1,1.0
+Structure-Aware,Q04,held_out_candidate,What is the official degree awarded for the Computer Science major?,"[1, 6]","[5, 7, 1, 4, 5]",3,0.49264233600024454,0,0,1,0,1,0,0.3333333333333333
+Structure-Aware,Q05,held_out_candidate,What is the major code for Computer Science?,[1],"[1, 7, 4, 14, 13]",1,0.22688777999974263,1,1,1,1,1,1,1.0
+Structure-Aware,Q06,held_out_candidate,What are the educational objectives of the Computer Science program?,[4],"[4, 8, 4, 12, 14]",1,0.17815886399966985,1,1,1,1,1,1,1.0
+Structure-Aware,Q07,held_out_candidate,What is the difference between Core Learning Outcomes and Major Learning Outcomes?,[5],"[5, 6, 11, 12, 4]",1,0.16689486899940675,1,1,1,1,1,1,1.0
+Structure-Aware,Q08,held_out_candidate,What courses are required in the Computer Science major?,[7],"[7, 13, 7, 8, 11]",1,0.1909126650007238,1,1,1,1,1,1,1.0
+Structure-Aware,Q09,held_out_candidate,What options are available instead of the Computer Science capstone courses?,"[7, 8]","[8, 9, 12, 4, 6]",1,0.16626061399983882,1,0,1,0,1,0,1.0
+Structure-Aware,Q10,held_out_candidate,What must a student complete before formally declaring the Computer Science major?,[7],"[7, 7, 8, 1, 4]",1,0.17347119799978827,1,1,1,1,1,1,1.0
+Structure-Aware,Q11,held_out_candidate,Which programming courses can satisfy the Computer Science minor requirement?,[7],"[7, 7, 13, 11, 4]",1,0.1850280129992825,1,1,1,1,1,1,1.0
+Structure-Aware,Q12,held_out_candidate,What must a student complete before formally declaring the Computer Science minor?,[7],"[7, 7, 11, 8, 4]",1,0.19329816199933703,1,1,1,1,1,1,1.0
+Structure-Aware,Q13,held_out_candidate,What is the recommended progression through the Computer Science curriculum?,"[8, 11]","[8, 6, 4, 14, 11]",1,0.1640176410001004,1,0,1,0,1,1,1.0
+Structure-Aware,Q14,held_out_candidate,What are the eligibility requirements for CS 401 Capstone I?,[9],"[9, 7, 15, 15, 7]",1,0.22609779200047342,1,1,1,1,1,1,1.0
+Structure-Aware,Q15,held_out_candidate,What teaching and assessment methods are used in the Computer Science major?,"[12, 13]","[12, 12, 12, 4, 4]",1,0.23313611799949285,1,0,1,0,1,0,1.0
+Structure-Aware,Q16,held_out_candidate,What graduate study and career paths are described for Computer Science students?,"[5, 6]","[5, 4, 6, 4, 8]",1,0.24899401099992247,1,0,1,1,1,1,1.0
+Structure-Aware,Q17,held_out_candidate,Which courses are listed in the Computer Science course catalogue?,[13],"[13, 13, 13, 11, 14]",1,0.155069198000092,1,1,1,1,1,1,1.0
+Structure-Aware,Q18,held_out_candidate,What prerequisites are listed for CS 201?,"[13, 14]","[7, 16, 15, 16, 14]",5,0.11786558699986927,0,0,0,0,1,0,0.2
