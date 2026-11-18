@@ -240,18 +240,31 @@ For questions not handled by course lookup, `HandbookRetriever` embeds the quest
 8. **Local resources:** General-RAG performance depends on available CPU/RAM and whether Ollama models are loaded.
 9. **Validation scope:** The observed tests are not a comprehensive evaluation of deployed answer correctness.
 
-## Demonstrations and report
+## Demonstrations and Report
 
 ### Demo Videos
 
-The following videos demonstrate the main components of the CS311 Final Project.
+The following four videos demonstrate the main components of the CS311 Final Project, from PDF processing and retrieval improvements to local deployment and user interaction.
 
-- **PDF Loading and Retrieval Demo:** [Watch Video 1](https://drive.google.com/file/d/1hfOx72fcMOZhWRPtuhWjv2z_KUII4Qcp/view?usp=sharing)
-- **Major Handbook Chatbot Demo:** [Watch Video 2](https://drive.google.com/file/d/1rJOM6Z2xf7jD2tJ6_1wHepsZDSk11u86/view?usp=sharing)
-- **Docker Deployment Demo:** [Watch Video 3](https://drive.google.com/file/d/1HCgBb1ridXjUeWuZ1aeGooNIUMaFovPS/view?usp=sharing)
-- **Streamlit UI/UX Demo:** [Watch Video 4](https://drive.google.com/file/d/15do7anKur9kUh3rufgeSHoD3eR3hfYz-/view?usp=sharing)
+| Video | Description | Link |
+|---|---|---|
+| 1. PDF Loading and Retrieval | PDF extraction, text chunking, ChromaDB indexing, and semantic retrieval | [Watch Video 1](https://drive.google.com/file/d/1hfOx72fcMOZhWRPtuhWjv2z_KUII4Qcp/view?usp=sharing) |
+| 2. Major Handbook Chatbot | Structure-aware retrieval, course-aware lookup, and unified chatbot testing | [Watch Video 2](https://drive.google.com/file/d/1rJOM6Z2xf7jD2tJ6_1wHepsZDSk11u86/view?usp=sharing) |
+| 3. Docker Deployment | Docker Compose configuration, Ollama models, and local deployment | [Watch Video 3](https://drive.google.com/file/d/1HCgBb1ridXjUeWuZ1aeGooNIUMaFovPS/view?usp=sharing) |
+| 4. Streamlit UI/UX | Chat interface, source information, course lookup, and abstention handling | [Watch Video 4](https://drive.google.com/file/d/15do7anKur9kUh3rufgeSHoD3eR3hfYz-/view?usp=sharing) |
 
-- Final technical report: **[link to be added]**
+### Technical Report
+
+The final technical report documents the development process, retrieval experiments, evaluation results, implementation decisions, limitations, and future improvements.
+
+**[Read the Final Technical Report (PDF)](report/CS311_Final_Project_Technical_Report.pdf)**
+
+### Experimental Materials
+
+- [RAG Development Notebook](notebook/CS311_Final_Project_RAG.ipynb)
+- [Question Benchmark](results/rag_benchmark_v1.csv)
+- [Retrieval Evaluation Summary](results/retrieval_evaluation_summary.csv)
+- [Detailed Retrieval Evaluation](results/retrieval_evaluation_detailed.csv)
 
 ## Reproducibility notes
 
