@@ -242,13 +242,16 @@ For questions not handled by course lookup, `HandbookRetriever` embeds the quest
 
 ## Demonstrations and report
 
-Add links to the final report and the required demo recordings once they are available:
+### Demo Videos
 
-- PDF loading and retrieval demo: **[link to be added]**
-- Major Handbook chatbot demo: **[link to be added]**
-- Docker deployment demo: **[link to be added]**
-- Streamlit UI/UX demo: **[link to be added]**
-- Final technical report (at least 1,500 words): **[link to be added]**
+The following videos demonstrate the main components of the CS311 Final Project.
+
+- **PDF Loading and Retrieval Demo:** [Watch Video 1](https://drive.google.com/file/d/1hfOx72fcMOZhWRPtuhWjv2z_KUII4Qcp/view?usp=sharing)
+- **Major Handbook Chatbot Demo:** [Watch Video 2](https://drive.google.com/file/d/1rJOM6Z2xf7jD2tJ6_1wHepsZDSk11u86/view?usp=sharing)
+- **Docker Deployment Demo:** [Watch Video 3](https://drive.google.com/file/d/1HCgBb1ridXjUeWuZ1aeGooNIUMaFovPS/view?usp=sharing)
+- **Streamlit UI/UX Demo:** [Watch Video 4](https://drive.google.com/file/d/15do7anKur9kUh3rufgeSHoD3eR3hfYz-/view?usp=sharing)
+
+- Final technical report: **[link to be added]**
 
 ## Reproducibility notes
 
